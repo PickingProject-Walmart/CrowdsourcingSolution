@@ -62,4 +62,4 @@ Economic team will design detailed compensation plan for participants involved i
 ### II.	Phase 2 July 21th-27th
 Integrate two team’s results, and prepare the instruction book of crowdsourcing picking solution.
 
-$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$ 
+$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $
