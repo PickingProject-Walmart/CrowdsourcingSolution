@@ -21,7 +21,7 @@ Problems of current picking solution mainly fall into 2 regions: human cost and 
 
 ## Solution(MVP)
 The solution proposed by our team can be presented in 3 parts. We will introduce the working procedures, followed by hardware and software preparations of the MVP.
-###I.	Working Procedures
+### I.	Working Procedures
 The proposed picking solution follows crowdsourcing principle. Specialized picking employees will be substituted by idle store salesperson, or eventually by any walking customer.
 A typical online order will be accepted after automatically checking the inventory, then divided into small sub-order by the categories or the areas they are placed. For example, the order of 2 cups of yogurt, 1 tin of cola and 1 bag of chips will be divided into 2 sub-orders, beverage sub-order and snacks sub-order. Each sub-order will be then pushed as corresponding "
 
